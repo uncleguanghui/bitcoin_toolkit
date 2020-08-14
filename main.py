@@ -1,4 +1,4 @@
-from trace import FileEngine, RedisEngine, Trace
+from bitcoin_toolkit import FileEngine, RedisEngine, Trace
 
 if __name__ == '__main__':
     """

@@ -1,0 +1,6 @@
+redis>=3.2.1
+psutil>=5.7.0
+blockchain-parser>=0.1.4
+networkx>=2.4
+matplotlib>=3.0.3
+pygraphviz>=1.6

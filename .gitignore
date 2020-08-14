@@ -1,0 +1,6 @@
+__pycache__/
+.idea/
+
+*.pkl
+*.py[c]
+.DS_Store

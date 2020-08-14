@@ -1,6 +1,12 @@
-__pycache__/
 .idea/
+build/
+dist/
+*.egg-info/
+*.egg/
+.pytest_cache/
+htmlcov/
 
+*.py[co]
 *.pkl
-*.py[c]
+.coverage
 .DS_Store

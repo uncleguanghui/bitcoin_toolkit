@@ -68,7 +68,7 @@ setup(
         'blockchain-parser>=0.1.4',
         'networkx>=2.4',
         'matplotlib>=3.0.3',
-        'pygraphviz>=1.6',
+        'pygraphviz>=1.5',
     ],
     tests_require=[
         'pytest >= 4.4.1',

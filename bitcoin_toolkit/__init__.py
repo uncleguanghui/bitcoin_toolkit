@@ -3,4 +3,4 @@ from .node import Node
 from .engine import FileEngine, RedisEngine
 from .trace import Trace
 
-__version__ = '0.0.1'
+__version__ = '0.0.2'
